@@ -11,3 +11,4 @@ export const SCPasso = styled.span`
     color: ${props => `${props.ativo ? '#c71d81' : '#868584'}`};
     font-weight: ${props => `${props.ativo ? 'bold' : 'regular'}`};
 `;
+

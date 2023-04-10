@@ -12,12 +12,12 @@ export const SCFormContainer = styled.div`
     max-width: 600px;
     height: auto; 
     margin: 0 auto;
-    background-color: #fff;
+    background-color: #000;
     padding: 1.5rem;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
 
     form {
-        max-width: 400px;
+        max-width: 500px;
         margin: 0 auto;
     }
 
@@ -30,6 +30,7 @@ export const SCHeader = styled.header`
     text-align: center;
     margin-bottom: 2rem;
     padding-top: 2rem;
+    color: #000;
 
     h2 {
         font-size: 2rem;
